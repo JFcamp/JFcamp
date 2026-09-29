@@ -12,7 +12,7 @@
   <a href="https://portfolio-dusky-xi-11.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/pedro-campos-5760a92ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:pedrocampos6388@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-  <a href="https://www.instagram.com/pvdcampos_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/pe.campos_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
