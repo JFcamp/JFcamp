@@ -1,0 +1,29 @@
+# Segredos e credenciais: nunca versionar
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*
+secrets/
+*token*.txt
+
+# Configuração local de agentes (Kiro / agent-bridge)
+.kiro/
+.worktrees/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.ruff_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
